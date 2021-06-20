@@ -1,0 +1,32 @@
+/* div{
+  display: block;
+justify-content: center;
+margin-right:0rem;
+width:150px;
+height:150px;
+}
+#image{
+  width:150px;
+height:150px;
+}
+body{
+  margin: 0;
+  width: 100vw;
+  height:100vh;
+  overflow:hidden;
+} */
+body{
+  margin: 0;
+  width: 100vw;
+  height:100vh;
+  overflow:hidden;
+}
+
+div{
+  position:absolute;
+  white-space: nowrap;
+}
+img{
+  width:200px;
+  height:200px;
+}
